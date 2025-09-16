@@ -2,6 +2,7 @@
 
 Un sistema completo de autenticación desarrollado en PHP con PostgreSQL que incluye registro, login seguro y manejo de sesiones.
 
+<img width="970" height="765" alt="image" src="https://github.com/user-attachments/assets/8455c692-0d23-43e4-8a45-172315aae347" />
 
 
 ## 📋 Descripción
@@ -46,6 +47,9 @@ login_project/
 ├── auth.php                 # Procesamiento de login
 ├── logout.php               # Cierre de sesión
 └── README.md               # Este archivo
+
+<img width="833" height="526" alt="image" src="https://github.com/user-attachments/assets/f8151237-37b4-4979-81e3-329795f70366" />
+
 ```
 
 ## ⚙️ Instalación
@@ -57,11 +61,14 @@ login_project/
 - pgAdmin (opcional, para gestión de BD)
 - Extensión `pdo_pgsql` habilitada en PHP
 
+<img width="816" height="478" alt="image" src="https://github.com/user-attachments/assets/808eb2df-5495-4954-9ed0-2e629abd2acc" />
+
+
 ### Pasos de Instalación
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/sistema-autenticacion.git
+   git clone https://github.com/davallejo/prueba_presidencia
    cd sistema-autenticacion
    ```
 
@@ -119,17 +126,23 @@ login_project/
 2. Ingresa usuario/email y contraseña
 3. El sistema validará las credenciales
 4. Si son correctas, serás redirigido al dashboard
+<img width="969" height="684" alt="image" src="https://github.com/user-attachments/assets/5ac1d1e9-8000-41eb-b656-047f0ead2529" />
+
 
 ### Registro
 1. Haz clic en "Regístrate aquí" desde el login
 2. Completa el formulario de registro
 3. El sistema validará los datos
 4. Al registrarte exitosamente, podrás hacer login
+<img width="968" height="848" alt="image" src="https://github.com/user-attachments/assets/f81793a1-1962-4fad-8af6-74e095629edd" />
+
 
 ### Dashboard
 - Panel protegido solo para usuarios autenticados
 - Muestra información del usuario actual
 - Opción para cerrar sesión
+<img width="969" height="757" alt="image" src="https://github.com/user-attachments/assets/dad81944-e70a-4e96-8f03-6af3214dc7b6" />
+
 
 ## 🔒 Características de Seguridad
 
