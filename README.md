@@ -47,10 +47,9 @@ login_project/
 ├── auth.php                 # Procesamiento de login
 ├── logout.php               # Cierre de sesión
 └── README.md               # Este archivo
-
-<img width="833" height="526" alt="image" src="https://github.com/user-attachments/assets/f8151237-37b4-4979-81e3-329795f70366" />
-
 ```
+<img width="824" height="523" alt="image" src="https://github.com/user-attachments/assets/bcb241aa-77c1-4a66-b68f-ff1a34f3c465" />
+
 
 ## ⚙️ Instalación
 
